@@ -1,6 +1,8 @@
 # Atlas_Lab-attrition-analysis-in-Power-BI
 Attrition Analysis in Power BI
 
+https://github.com/pfhuamanflores/Atlas_Lab-attrition-analysis-in-Power-BI/blob/main/Atlas_lab_pic.jpg
+
 Objective:
 The primary goal of this project was to analyze employee attrition patterns within the organization to identify key factors contributing to turnover and to inform retention strategies.
 
